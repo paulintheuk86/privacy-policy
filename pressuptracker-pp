@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy - Push Up Tracker</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 2rem auto;
+      max-width: 800px;
+      padding: 0 1rem;
+      background: #f9f9f9;
+      color: #333;
+    }
+    h1, h2 {
+      color: #222;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p><strong>Effective Date:</strong> 31 Aug 2025 </p>
+  <p>Thank you for using <strong>Push Up Tracker</strong>. This Privacy Policy explains how we handle your information when you use our app.</p>
+
+  <h2>Information We Collect</h2>
+  <p>We do not collect personally identifiable information. The app stores your push-up records and statistics locally on your device. We do not access or transmit this data.</p>
+
+  <h2>Advertising</h2>
+  <p>Push Up Tracker may display ads provided by third-party advertising partners (such as Google AdMob). These partners may use cookies or similar technologies to provide personalised ads based on your activity. You can opt out of personalised advertising in your device settings.</p>
+
+  <h2>Data Security</h2>
+  <p>Since your workout data is stored locally on your device, you maintain full control over it. If you uninstall the app, your stored records will be deleted from your device.</p>
+
+  <h2>Children’s Privacy</h2>
+  <p>This app is not directed towards children under 13. We do not knowingly collect personal information from children.</p>
+
+  <h2>Changes to This Policy</h2>
+  <p>We may update this Privacy Policy from time to time. Any updates will be posted on this page with a revised effective date.</p>
+
+  <h2>Contact Us</h2>
+  <p>If you have any questions or concerns about this Privacy Policy, please contact us at:</p>
+  <p>Email: <a href="mailto:mvpapps@proton.me">mvpapps@proton.me</a></p>
+</body>
+</html>
